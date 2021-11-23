@@ -14,4 +14,4 @@ Hello My name is Alban Tchikladzé, I'm a geek who love playing vidéo games etc
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[albtchik@gmail.com](mailto:albantchik@gmail.com)
