@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: First Blog Post
 published: true
 ---
 ## This is you first blog with Jekyll, I love ice creams !!
